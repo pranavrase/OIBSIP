@@ -58,8 +58,8 @@ The objective of this project is to apply **customer segmentation techniques** u
 
 ```text
 DataAnalytics-L1-CustomerSegmentationAnalysis/
-├── customer_segmentation.ipynb
-├── Online Retail.csv
+├── PranavRase_Task2_CustomerSegmentation.ipynb
+├── Online Retail.xlsx
 ├── README.md
 └── screenshots/
 ```
