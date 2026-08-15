@@ -56,7 +56,7 @@ The objective of this project is to perform **Exploratory Data Analysis (EDA)** 
 
 ```text
 DataAnalytics-L1-EDARetailSales/
-├── retail_sales_eda.ipynb
+├── PranavRase_Task1_EDARetailSales.ipynb
 ├── Sample - Superstore.csv
 ├── README.md
 └── screenshots/
